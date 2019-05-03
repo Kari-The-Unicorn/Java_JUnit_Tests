@@ -18,8 +18,5 @@ public class Calculate {
         return (firstNumber * secondNumber);
     }
 
-    public int Divide(int firstNumber, int secondNumber)
-    {
-        return (firstNumber / secondNumber);
-    }
+    public int Divide(int firstNumber, int secondNumber) { return (firstNumber / secondNumber); }
 }

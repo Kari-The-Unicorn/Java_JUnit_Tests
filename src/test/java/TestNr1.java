@@ -47,4 +47,5 @@ public class TestNr1{
         Assert.assertEquals(2, provider.Divide(firstNumber, secondNumber));
         System.out.println("Ending test");
     }
+
 }
